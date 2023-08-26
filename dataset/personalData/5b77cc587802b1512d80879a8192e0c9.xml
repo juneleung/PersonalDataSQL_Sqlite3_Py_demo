@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<root>
+	<name type="str">Carlie Arnold</name>
+	<address type="str">54 Harvard St. Atlantic City, NJ 08401</address>
+	<phone type="str">(900) 749-8043</phone>
+</root>

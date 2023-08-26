@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<root>
+	<name type="str">Tony Browning</name>
+	<address type="str">104 S. Plymouth St. Bethpage, NY 11714</address>
+	<phone type="str">(293) 535-0169</phone>
+</root>

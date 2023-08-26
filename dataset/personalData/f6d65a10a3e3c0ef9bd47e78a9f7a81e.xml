@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<root>
+	<name type="str">Brian Morales</name>
+	<address type="str">349 Big Rock Cove Dr. Newburgh, NY 12550</address>
+	<phone type="str">(557) 616-2809</phone>
+</root>

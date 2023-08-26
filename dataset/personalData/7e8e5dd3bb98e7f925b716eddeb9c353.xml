@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<root>
+	<name type="str">Kolton Lambert</name>
+	<address type="str">835 Rock Maple Road Princeton, NJ 08540</address>
+	<phone type="str">(630) 882-6750</phone>
+</root>

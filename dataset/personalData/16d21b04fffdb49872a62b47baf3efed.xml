@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<root>
+	<name type="str">Damien Shea</name>
+	<address type="str">57 Cherry St. Perrysburg, OH 43551</address>
+	<phone type="str">(305) 843-0292</phone>
+</root>

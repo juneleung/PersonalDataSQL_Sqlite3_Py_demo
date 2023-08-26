@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<root>
+	<name type="str">Evie Boone</name>
+	<address type="str">257 East Chestnut Street Roanoke, VA 24012</address>
+	<phone type="str">(311) 331-1946</phone>
+</root>
